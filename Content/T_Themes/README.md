@@ -28,3 +28,7 @@ This sections features 3rd party OpenCanopy themes for OpenCore's Boot Menu. And
 |[**Download and Instructions**](https://github.com/HJebbour/GoldenGateExt-OpenCore-Theme/releases)
 
 **TBC…**
+
+## Additional Resources
+
+[Creating ICNS files for macOS apps](https://www.mycyberuniverse.com/creating-icns-files-macos-apps-developer-guide) 
