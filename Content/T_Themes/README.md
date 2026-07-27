@@ -31,4 +31,5 @@ This sections features 3rd party OpenCanopy themes for OpenCore's Boot Menu. And
 
 ## Additional Resources
 
-[Creating ICNS files for macOS apps](https://www.mycyberuniverse.com/creating-icns-files-macos-apps-developer-guide) 
+[Creating ICNS files for macOS apps](https://www.mycyberuniverse.com/creating-icns-files-macos-apps-developer-guide)    
+[Custom Mac Icons](https://github.com/eth-p/mac-icons) – Custom MacOS folder icons designed to match the native look and feel.
