@@ -107,11 +107,11 @@
 
 ## 📈 Repo Stats
 
-<a href="https://star-history.com/#5T33Z0/OC-Little-Translated&Date">
+<a href="https://www.star-history.com/?repos=5T33Z0%2FOC-Little-Translated&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=5T33Z0/OC-Little-Translated&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=5T33Z0/OC-Little-Translated&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=5T33Z0/OC-Little-Translated&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=5T33Z0/OC-Little-Translated&type=date&theme=dark&legend=top-left&sealed_token=6Oude_g_Do1pbDtBQbTPDgrXK_WXQBXp8Pu1aqHB5nohNPqnil2yimBpMJ29Uir0roLqpGo7otrBUd105OSTMofM5AVpzNSv_9SPmH9kl0OTU7gQ1qIxXLVzQSGTDku58mlpfnjrFxXSc1nsOmFBYu-4kU0lN06Zk4c3nWf15vnAbUOCbU5WqLeuT93t" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=5T33Z0/OC-Little-Translated&type=date&legend=top-left&sealed_token=6Oude_g_Do1pbDtBQbTPDgrXK_WXQBXp8Pu1aqHB5nohNPqnil2yimBpMJ29Uir0roLqpGo7otrBUd105OSTMofM5AVpzNSv_9SPmH9kl0OTU7gQ1qIxXLVzQSGTDku58mlpfnjrFxXSc1nsOmFBYu-4kU0lN06Zk4c3nWf15vnAbUOCbU5WqLeuT93t" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=5T33Z0/OC-Little-Translated&type=date&legend=top-left&sealed_token=6Oude_g_Do1pbDtBQbTPDgrXK_WXQBXp8Pu1aqHB5nohNPqnil2yimBpMJ29Uir0roLqpGo7otrBUd105OSTMofM5AVpzNSv_9SPmH9kl0OTU7gQ1qIxXLVzQSGTDku58mlpfnjrFxXSc1nsOmFBYu-4kU0lN06Zk4c3nWf15vnAbUOCbU5WqLeuT93t" />
  </picture>
 </a>
 
